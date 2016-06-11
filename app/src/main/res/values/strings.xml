@@ -1,4 +1,5 @@
 <resources>
+    <string name="st_app_name_short" translatable="false">U4U</string>
     <string name="st_app_name">UBER for UBER</string>
     <string name="st_app_info">THE \nEASIEST \nWAY \nTO \nREQUEST \nUBER</string>
     <string name="st_request">REQUEST UBER</string>
