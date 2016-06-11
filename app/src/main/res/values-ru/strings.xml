@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="st_app_name">UBER для UBER</string>
+    <string name="st_app_info">САМЫЙ \nПРОСТО \nСПОСОБ \nВЫЗВАТЬ \nUBER</string>
+    <string name="st_request">ВЫЗВАТЬ UBER</string>
+    <string name="st_error">Ошибка</string>
+</resources>
