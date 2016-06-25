@@ -1,7 +1,7 @@
-UBER for UBER
+U4U
 =============
 
-UBER for UBER - the app allows you to request UBER
+The app allows you to request UBER
 
 
 Download from Google Play 
